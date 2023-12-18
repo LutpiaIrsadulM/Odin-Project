@@ -1,3 +1,5 @@
 # Odin-Project
 
-Hello Odin
+Odin Recipes project
+
+using basic HTML to create a recipes website
